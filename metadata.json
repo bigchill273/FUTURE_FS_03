@@ -1,0 +1,6 @@
+{
+  "name": "Blaze Addis — Restaurant, Cafe & Bakery",
+  "description": "Authentic Ethiopian Habeshan dishes, wood-fired pizzas, gourmet burgers, and artisan daily bakery in Megenagna, Addis Ababa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
