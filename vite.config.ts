@@ -108,6 +108,7 @@ export default defineConfig(() => {
       // Disable file watching when DISABLE_HMR is true to save CPU during agent edits.
       watch: process.env.DISABLE_HMR === 'true' ? null : {},
     },
-    base: '/blaze/',
+    base: '/FUTURE_FS_03/',
+    
   };
 });
